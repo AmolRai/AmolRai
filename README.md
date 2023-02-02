@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amol Rai
-- 👀 I’m interested in developing products that solves user problem
+- 👀 I’m interested in Developing products that solves user problem
 - 🌱 I’m currently learning Web Development and Data Structures Algorithms
 - 💞️ I’m looking to collaborate on projects
 - 📫 Linkedin https://www.linkedin.com/in/amolrai07/
