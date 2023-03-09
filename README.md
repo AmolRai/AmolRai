@@ -9,15 +9,15 @@
 
 - Developed a Blogging Website using React and Firebase [Blogging Website](https://blog-f1cea.web.app)
 
-- 🌱 I’m currently learning **React**
-
 - Developed a Code-Editor Website using HTML,CSS,JavaScript [CodeWarm](https://codewarm-c00e8.web.app)
 
-- 🤝 I’m looking for help with [Netflix Clone](https://netflix-35757.web.app)
+- Developed a Netflix Clone using React [Netflix Clone](https://netflix-35757.web.app)
+
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://medium.com/@amolrai3](https://medium.com/@amolrai3)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, HTML, CSS JavaScript**
 
 - 📫 How to reach me **amolrai3@gmail.com**
 
