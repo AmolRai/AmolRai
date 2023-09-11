@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amolrai3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fAOUYEVitjLd42IdYSNhSoGaLumRfxoC/view?usp=sharing](https://drive.google.com/file/d/1fAOUYEVitjLd42IdYSNhSoGaLumRfxoC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ujEyZ3o4hqk7NQR4virnishroDMsO2-B/view?usp=sharing](https://drive.google.com/file/d/1ujEyZ3o4hqk7NQR4virnishroDMsO2-B/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
