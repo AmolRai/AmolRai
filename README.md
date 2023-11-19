@@ -9,7 +9,7 @@
 
 - Developed a Netflix Clone using React [Netflix Clone](https://netflix-35757.web.app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📝 I regularly write articles on [https://medium.com/@amolrai3](https://medium.com/@amolrai3)
 
