@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/amolrai_dev" target="blank"><img src="https://img.shields.io/twitter/follow/amolrai_dev?logo=twitter&style=for-the-badge" alt="amolrai_dev" /></a> </p>
 
-- Developed a Food Ordering Website using React and Redux [Blogging Website](https://food-ordering-application-ten.vercel.app)
+- Developed a Food Ordering Website using React and Redux [Food Ordering Website](https://food-ordering-application-ten.vercel.app)
 
 - Developed a Blogging Website using React and Firebase [Blogging Website](https://blog-f1cea.web.app)
 
